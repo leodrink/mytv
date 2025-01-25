@@ -2654,3 +2654,58 @@ http://1.94.31.214:35455/huya/29465849
 https://lunbo.freetv.top/yy/1354210357
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
 http://1.94.31.214:35455/huya/23824164
+
+#EXTINF:-1 tvg-name="半岛新闻"  group-title="💓英语频道",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="半岛新闻"  group-title="💓英语频道",半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="半岛新闻" group-title="💓英语频道",半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="💓英语频道",半岛新闻
+https://litv.zapi.us.kg/?id=litv-ftv10
+
+#EXTINF:-1 tvg-name="BBC News"  group-title="💓英语频道",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News"  group-title="💓英语频道",BBC News
+http://125.227.210.55:8165/VideoInput/play.ts
+
+#EXTINF:-1 tvg-name="TaiwanPlus"  group-title="💓英语频道",TaiwanPlus
+https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+
+#EXTINF:-1 tvg-name="ABC News" group-title="💓英语频道",ABC News
+https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+
+
+#EXTINF:-1 tvg-name="DW News"  group-title="💓英语频道",DW News
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-name="DW News"  group-title="💓英语频道",DW News
+https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 tvg-name="DW News" group-title="💓英语频道",DW News
+http://37.27.111.214:8080/live/46/hls.m3u8
+
+#EXTINF:-1 tvg-name="GBNews" group-title="💓英语频道",GVNews
+https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+
+#EXTINF:-1 tvg-name="FRANCE24" group-title="💓英语频道",FRANCE24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-name="FRANCE24" group-title="💓英语频道",FRANCE24
+https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+
+#EXTINF:-1 tvg-name="NBC News" group-title="💓英语频道",NBC News
+https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera" group-title="💓英语频道",Al Jazeera
+https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+
+#EXTINF:-1 tvg-name="NHK World" group-title="💓英语频道",NHK World
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="ABC News AU" group-title="💓英语频道",ABC News AU
+https://stream1.freetv.fun/abc-news-australia-1.m3u8
+#EXTINF:-1 tvg-name="ABC News AU" group-title="💓英语频道",ABC News AU
+https://stream1.freetv.fun/abc-news-australia-2.ctv
+
+
+
+
+
