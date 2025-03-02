@@ -2710,7 +2710,7 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8  HBO
 https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
 #EXTINF:-1 tvg-name="Now爆谷星影台"  group-title="💓其它",Now爆谷星影台
 https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8 
-#EXTINF:-1 tvg-name="Now新聞台"  group-title="💓其它"Now新聞台
+#EXTINF:-1 tvg-name="Now新聞台"  group-title="💓其它",Now新聞台
 https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8 
 #EXTINF:-1 tvg-name="Now財經台"  group-title="💓其它",Now財經台
 https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
