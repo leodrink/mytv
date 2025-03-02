@@ -2613,6 +2613,33 @@ https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
 #EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐之声.png" group-title="🎵音乐频道",音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 
+#EXTINF:-1 tvg-name="HBO"  group-title="💓其它",HBO
+https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8  HBO
+#EXTINF:-1 tvg-name="Now爆谷台"  group-title="💓其它",Now爆谷台
+https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
+#EXTINF:-1 tvg-name="Now爆谷星影台"  group-title="💓其它",Now爆谷星影台
+https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8 
+#EXTINF:-1 tvg-name="Now新聞台"  group-title="💓其它"Now新聞台
+https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8 
+#EXTINF:-1 tvg-name="Now財經台"  group-title="💓其它",Now財經台
+https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超1台"  group-title="💓其它",Now Sports 英超1台
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8 
+#EXTINF:-1 tvg-name="HBO"  group-title="💓其它",Now Sports 英超2台
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超3台"  group-title="💓其它",Now Sports 英超3台
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超4台"  group-title="💓其它",Now Sports 英超4台
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超5台"  group-title="💓其它",Now Sports 英超5台
+https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超6台"  group-title="💓其它",Now Sports 英超6台
+https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8 
+#EXTINF:-1 tvg-name="Now Sports 英超7台"  group-title="💓其它",Now Sports 英超7台
+https://dko29we9nm1rd.cloudfront.net/hls/CH627/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 精選"  group-title="💓其它",Now Sports 精選
+https://dko29we9nm1rd.cloudfront.net/hls/CH630/index.m3u8
+
 
 #EXTINF:-1 group-title="🌏123线路" tvg-name="凤凰资讯" tvg-logo="https://www.tvbox123.com/tv_img/fenghuangweishizixuntai.jpg" epg-url="https://epg.zbds.top",凤凰资讯
 https://www.tvbox123.com/player/index?id=342e07Bs_HSgvnqFVrKVXV2IeYxF-Au6IL0QgnLpkXLPwo8&time=1740808037
