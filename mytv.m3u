@@ -60,7 +60,7 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻.png" group-title="🌏AKTV专用线路",寰宇新聞台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
-#EXTINF:-1 tvg-name="三立综合台" tvg-id="" tvg-logo="https://isus.cc/share/logo/%E4%B8%89%E7%AC%A0%E6%96%B0%E8%81%9E.png" group-title="🌏AKTV专用线路",三立综合台
+#EXTINF:-1 tvg-name="三立综合台" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110224289252_19.png" group-title="🌏AKTV专用线路",三立综合台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="🌏AKTV专用线路",中视
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
@@ -122,11 +122,11 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Nickelodeon.png" group-title="🌏AKTV专用线路",Nickelodeon
 http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 tvg-name="Xite Rock" tvg-id="" tvg-logo="" group-title="🌏AKTV专用线路",Xite Rock
+#EXTINF:-1 tvg-name="Xite Rock" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/Xite.png" group-title="🌏AKTV专用线路",Xite Rock
 http://aktv_stream1.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
 #EXTINF:-1 tvg-name="Xite Hits" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/Xite.png" group-title="🌏AKTV专用线路",Xite Hits
 http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-#EXTINF:-1 tvg-name="ZooMoo" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/Xite.png" group-title="🌏AKTV专用线路",ZooMoo
+#EXTINF:-1 tvg-name="ZooMoo" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/zoo.png" group-title="🌏AKTV专用线路",ZooMoo
 http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻台" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/61.png" group-title="🌏AKTV专用线路",亚洲新闻台
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
@@ -166,7 +166,7 @@ http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8
 #EXTINF:-1 tvg-name="Disney XD" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608035156239218_73.png" group-title="🌏AKTV专用线路",Disney XD
 http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
-#EXTINF:-1 tvg-name="Red Bull Sports" tvg-id="" tvg-logo="" group-title="🌏AKTV专用线路",Red Bull Sports
+#EXTINF:-1 tvg-name="Red Bull Sports" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/redbulltv.png" group-title="🌏AKTV专用线路",Red Bull Sports
 http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="HBO" tvg-id="" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/HBO.png?raw=true" group-title="💓其它",HBO
