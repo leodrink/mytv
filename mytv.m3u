@@ -20,7 +20,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch3/AKTV.m3u8
 #EXTINF:-1 tvg-name="千禧经典台" tvg-id="" tvg-logo="https://www.tvbox123.com/tv_img/tvb-qianxijingdian.jpg" group-title="🌏AKTV专用线路",千禧經典台(HK)
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-name="娱乐新闻台" tvg-id="" tvg-logo="https://gitee.com/leodrink/leodrink/blob/master/tv/tvbaw_logo.png" group-title="🌏AKTV专用线路",娛樂新聞台(HK)
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/娱乐新闻台.png" group-title="🌏AKTV专用线路",娛樂新聞台(HK)
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="明珠剧集台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="🌏AKTV专用线路",明珠剧集台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
