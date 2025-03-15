@@ -46,53 +46,53 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="" tvg-logo="https://isus.cc/share/logo/TVBPlus.png" group-title="🌏AKTV专用线路",TVB Plus
 http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="🌏AKTV专用线路",TVBS新闻台
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="🌏AKTV专用线路",TVBS 新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBS精彩台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS精采.png" group-title="🌏AKTV专用线路",TVBS精彩台
+#EXTINF:-1 tvg-name="TVBS精彩台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS精采.png" group-title="🌏AKTV专用线路",TVBS精采台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新闻台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻台.png" group-title="🌏AKTV专用线路",中天新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-name="东森新闻" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="🌏AKTV专用线路",東森新聞
+#EXTINF:-1 tvg-name="东森新闻" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="🌏AKTV专用线路",東森新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="东森新闻" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="🌏AKTV专用线路",東森新聞
+#EXTINF:-1 tvg-name="东森新闻" tvg-id="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="🌏AKTV专用线路",東森新聞台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻.png" group-title="🌏AKTV专用线路",寰宇新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻.png" group-title="🌏AKTV专用线路",寰宇新聞台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
-#EXTINF:-1 tvg-name="三立综合台" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110224289252_19.png" group-title="🌏AKTV专用线路",三立综合台
+#EXTINF:-1 tvg-name="三立综合台" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110224289252_19.png" group-title="🌏AKTV专用线路",三立綜合台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="🌏AKTV专用线路",中视
+#EXTINF:-1 tvg-name="中视" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="🌏AKTV专用线路",中視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="🌏AKTV专用线路",中视新闻
+#EXTINF:-1 tvg-name="中视新闻" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="🌏AKTV专用线路",中視新聞
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-#EXTINF:-1 tvg-name="台视" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png" group-title="🌏AKTV专用线路",台视
+#EXTINF:-1 tvg-name="台视" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png" group-title="🌏AKTV专用线路",台視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="🌏AKTV专用线路",台视新闻
+#EXTINF:-1 tvg-name="台视新闻" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="🌏AKTV专用线路",台視新聞台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-name="民视" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png" group-title="🌏AKTV专用线路",民视
+#EXTINF:-1 tvg-name="民视" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png" group-title="🌏AKTV专用线路",民視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="民视台湾台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾台.png" group-title="🌏AKTV专用线路",民视台湾台
+#EXTINF:-1 tvg-name="民视台湾台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾台.png" group-title="🌏AKTV专用线路",民視台灣台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="民视新闻台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻台.png" group-title="🌏AKTV专用线路",民视新闻台
+#EXTINF:-1 tvg-name="民视新闻台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻台.png" group-title="🌏AKTV专用线路",民視新聞台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-name="民视第一台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视第一台.png" group-title="🌏AKTV专用线路",民视第一台
+#EXTINF:-1 tvg-name="民视第一台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视第一台.png" group-title="🌏AKTV专用线路",民視第一台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="民视综艺台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视综艺台.png" group-title="🌏AKTV专用线路",民视综艺台
+#EXTINF:-1 tvg-name="民视综艺台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视综艺台.png" group-title="🌏AKTV专用线路",民視綜藝台 
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
-#EXTINF:-1 tvg-name="华视" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="🌏AKTV专用线路",华视
+#EXTINF:-1 tvg-name="华视" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="🌏AKTV专用线路",華視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-name="爱尔达娱乐台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达娱乐台.png" group-title="🌏AKTV专用线路",爱尔达娱乐台
+#EXTINF:-1 tvg-name="爱尔达娱乐台" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达娱乐台.png" group-title="🌏AKTV专用线路",愛爾達娛樂台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-name="龙华偶像" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华偶像.png" group-title="🌏AKTV专用线路",龙华偶像
+#EXTINF:-1 tvg-name="龙华偶像" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华偶像.png" group-title="🌏AKTV专用线路",龍華偶像HD
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-name="龙华日韩" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华日韩.png" group-title="🌏AKTV专用线路",龙华日韩
+#EXTINF:-1 tvg-name="龙华日韩" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华日韩.png" group-title="🌏AKTV专用线路",龍華日韓台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-name="龙华电影" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影.png" group-title="🌏AKTV专用线路",龙华电影
+#EXTINF:-1 tvg-name="龙华电影" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影.png" group-title="🌏AKTV专用线路",龍華電影HD
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="PopC" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/popc.png" group-title="🌏AKTV专用线路",PopC
 http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-name="ROCKAction" tvg-id="" tvg-logo="https://www.tvbox123.com/tv_img/rock-action.jpg" group-title="🌏AKTV专用线路",ROCKAction
+#EXTINF:-1 tvg-name="ROCKAction" tvg-id="" tvg-logo="https://www.tvbox123.com/tv_img/rock-action.jpg" group-title="🌏AKTV专用线路",ROCK Action
 http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-name="tvN" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="🌏AKTV专用线路",tvN
 http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
