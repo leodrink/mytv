@@ -42,6 +42,10 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-name="myTVSUPER18台" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/MyTVsuper18.png" group-title="🌏AKTV专用线路",myTVSUPER18台
 http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB Jade" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042439684116_76.png" group-title="🌏AKTV专用线路",TVB Jade
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB星河" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/星河.png" group-title="🌏AKTV专用线路",TVB Xing He
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亚电影台" tvg-id="" tvg-logo="https://assets.livednow.com/logo/%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0-HK.png" group-title="🌏AKTV专用线路",美亞電影台(HK)
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="" tvg-logo="https://isus.cc/share/logo/TVBPlus.png" group-title="🌏AKTV专用线路",TVB Plus
@@ -102,8 +106,6 @@ http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/LoveNature.png" group-title="🌏AKTV专用线路",Love Nature
 http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
-#EXTINF:-1 tvg-name="Love The Planet" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/Planet.png" group-title="🌏AKTV专用线路",Love The Planet
-http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
 #EXTINF:-1 tvg-name="Animax(HK)" tvg-id="" tvg-logo="https://qwtc.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/Animax%20%E5%8D%A1%E9%80%9A.png" group-title="🌏AKTV专用线路",Animax(HK)
 http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="France 24" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/france24.png" group-title="🌏AKTV专用线路",France 24
@@ -160,8 +162,10 @@ http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 tvg-name="Astro Football" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/03/04/20250304023440933544_76.png" group-title="🌏AKTV专用线路",Astro Football
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-#EXTINF:-1 tvg-name="IQIYI" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/IQIYI.png" group-title="🌏AKTV专用线路",IQIYI
+#EXTINF:-1 tvg-name="Astro IQIYI" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/IQIYI.png" group-title="🌏AKTV专用线路",IQIYI
 http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro 欢喜台" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/欢喜台.png" group-title="🌏AKTV专用线路",欢喜台
+http://aktv_stream1.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Disney.png" group-title="🌏AKTV专用线路",Disney Channel
 http://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8
 #EXTINF:-1 tvg-name="Disney XD" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608035156239218_73.png" group-title="🌏AKTV专用线路",Disney XD
