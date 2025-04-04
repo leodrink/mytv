@@ -90,7 +90,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 tvg-name="KIX" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/KIX.png" group-title="🌏AKTV专用线路",KIX
 http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 tvg-name="KIX" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/KIX.png" group-title="🌏AKTV专用线路",KIX
-https://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png
+https://console.tiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NHKWorld.png" group-title="🌏AKTV专用线路",NHK World-Japan
 http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
 
@@ -109,9 +109,10 @@ http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="东方卫视国际频道" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="🌏AKTV专用线路",東方衛視國際頻道
 http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 
-
 #EXTINF:-1 tvg-name="CINEMAWORLD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cinemaworld.png" group-title="🌏AKTV专用线路",CINEMAWORLD
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+#EXTINF:-1 tvg-name="Mediacorp Entertainment Chinese" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tvlogo/mediacorp.png" group-title="🌏AKTV专用线路",Mediacorp Entertainment Chinese
+http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 #EXTINF:-1 tvg-name="FIGHT SPORTS" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042702948578_27.png" group-title="🌏AKTV专用线路",FIGHT SPORTS
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/11/20241211021206637792_60.png" group-title="🌏AKTV专用线路",NBA TV
@@ -125,6 +126,8 @@ http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
 #EXTINF:-1 tvg-name="曼联电视频道" tvg-id="https://leodrink.github.io/mytv/tvlogo/曼联.png" tvg-logo="" group-title="🌏AKTV专用线路",曼联电视频道
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+#EXTINF:-1 tvg-name="朝鲜恩情台" tvg-id="https://leodrink.github.io/mytv/tvlogo/朝鲜恩情台.png" tvg-logo="" group-title="🌏AKTV专用线路",朝鲜恩情台
+http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="viuTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/viuTV.png" group-title="🌏AKTV专用线路",viuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
@@ -141,10 +144,15 @@ http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
 #EXTINF:-1 tvg-name="ELTV生活英语台" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110707488272_87.png" group-title="🌏AKTV专用线路",ELTV生活英語台
 http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
-#EXTINF:-1 tvg-name="Mediacorp Entertainment Chinese" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/mediacorp.png" group-title="🌏AKTV专用线路",Mediacorp Entertainment Chinese
-http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 #EXTINF:-1 tvg-name="Celestial Movies HD" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/mediacorp.png" group-title="🌏AKTV专用线路",Celestial Movies HD
 http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/02/23/20250223020606068934_27.png" group-title="🌏AKTV专用线路",beIN SPORTS XTRA
+http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
+#EXTINF:-1 tvg-name="PAC12" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/PAC12.png" group-title="🌏AKTV专用线路",PAC12
+http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel DE" tvg-id="" tvg-logo="https://leodrink.github.io/mytv/tvlogo/PAC12.png" group-title="🌏AKTV专用线路",Tennis Channel DE
+http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
+
 
 #EXTINF:-1 tvg-name="HBO" tvg-id="" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/HBO.png?raw=true" group-title="💓其它",HBO
 https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8  HBO
